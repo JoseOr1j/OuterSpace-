@@ -1,6 +1,8 @@
 # Outer Space Page 
 
 This project was made using HTML and CSS. It is a simple example of a site that shows responsiveness and UI principles. The project itself illustrates some information from https://www.nasa.gov/. 
+This project is now archived. 
+Reason as to why I do not delete them altogether is because as you get better at programming you get to see how much you have improved!
 
 ## Getting Started
 
@@ -47,3 +49,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Summary
 
 I learned about the user interface as well as experience, a bit of design principles, and more about how to make a site responsive among all browsers like, Chrome, Internet Explorer, Opera, Firefox, etc.
+
+## Last Revision
+1/4/23
